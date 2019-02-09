@@ -1,0 +1,20 @@
+{
+  "name": "bingchat",
+  "version": "1.0.0",
+  "description": "A web chat client for Binghamton University students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitoms/bingchat.git"
+  },
+  "author": "Eric Li, Pitom Saha, Connor Tremblay, Uttsow Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pitoms/bingchat/issues"
+  },
+  "homepage": "https://github.com/pitoms/bingchat#readme"
+}
